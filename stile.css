@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+#title{
+
+    display: inline;
+    vertical-align: middle;
+}
+#logo{
+    width: 40px;
+    vertical-align: middle;
+}
+#container{
+    margin-left: 10px;
+}
